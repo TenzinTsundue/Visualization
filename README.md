@@ -8,4 +8,7 @@ Libraries for data visualization
 - ggplot
 - Bokeh
 
-
+Software/tools for data visulization
+- Tableau
+- Google charts
+- Infogram
